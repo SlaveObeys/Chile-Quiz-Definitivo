@@ -4,6 +4,46 @@
 	},
 	"1": {
 		"id": "1",
+		"pregunta": "¿Qué menciona el periodista sobre la carretera?",
+		"respuesta_correcta": "A esta hora ningún culiao",
+		"respuesta_alterna1": "A esta hora ningún weon",
+		"respuesta_alterna2": "A esta hora ningún aweonao",
+		"respuesta_alterna3": "A esta hora no hay ningún aweonao",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/A%20esta%20hora%20ning%C3%BAn%20culiao.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/A%20esta%20hora%20ning%C3%BAn%20culiao"
+	},
+	"2": {
+		"id": "2",
+		"pregunta": "¿Qué opina este señor sobre la bebida con vino?",
+		"respuesta_correcta": "Aah un manjar",
+		"respuesta_alterna1": "Aah una delicia",
+		"respuesta_alterna2": "Aah que rica cola",
+		"respuesta_alterna3": "Aah que wea más rica",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Aah%20un%20manjar.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Aah%20un%20manjar"
+	},
+	"3": {
+		"id": "3",
+		"pregunta": "¿Qué frase utiliza este niño para despedirse de su pajarito?",
+		"respuesta_correcta": "Adiós chimuelo",
+		"respuesta_alterna1": "Adiós tontuelo",
+		"respuesta_alterna2": "Adiós marcelo",
+		"respuesta_alterna3": "Adiós tolueno",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Adios%20Chimuelo.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Adios%20Chimuelo.mp3"
+	},
+	"4": {
+		"id": "4",
+		"pregunta": "¿Qué le grita su amigo al señor que está por caer?",
+		"respuesta_correcta": "Afirmate conchetumare",
+		"respuesta_alterna1": "Agarrate conchetumare",
+		"respuesta_alterna2": "Cuidado conchetumare",
+		"respuesta_alterna3": "Hasta la próxima conchetumare",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Afirmate%20Conchetumare.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Afirmate%20Conchetumare"
+	},
+	"5": {
+		"id": "5",
 		"pregunta": "¿Cuál frase icónica menciona Pati Cofré?",
 		"respuesta_correcta": "Y agradezcan, que soy una dama",
 		"respuesta_alterna1": "Y den las gracias, de que soy una mujer educada",
@@ -12,8 +52,8 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Agradezcan%20que%20soy%20una%20dama.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Agradezcan%20que%20soy%20una%20dama"
 	},
-	"2": {
-		"id": "2",
+	"6": {
+		"id": "6",
 		"pregunta": "¿Cuál acción nos invita a realizar esta persona?",
 		"respuesta_correcta": "Anda a laar",
 		"respuesta_alterna1": "Anda a cocinar",
@@ -22,8 +62,8 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Anda%20a%20laar.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Anda%20a%20laar"
 	},
-	"3": {
-		"id": "3",
+	"7": {
+		"id": "7",
 		"pregunta": "¿Cuál es la petición que solicita este humorista?",
 		"respuesta_correcta": "Apaga la luz",
 		"respuesta_alterna1": "Apaga el foco",
@@ -32,8 +72,38 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Apaga%20la%20luz.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Apaga%20la%20luz"
 	},
-	"4": {
-		"id": "4",
+	"8": {
+		"id": "8",
+		"pregunta": "¿Qué palabra singular dice Bonvallet?",
+		"respuesta_correcta": "Aweonao",
+		"respuesta_alterna1": "Weon",
+		"respuesta_alterna2": "Tonto weon",
+		"respuesta_alterna3": "Que te pasa",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Aweonao.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Aweonao"
+	},
+	"9": {
+		"id": "9",
+		"pregunta": "¿Qué le indica el abuelo a su nieto?",
+		"respuesta_correcta": "Mira pa delante po aweonao Cristian",
+		"respuesta_alterna1": "Mira hacia delante po aweonao Cristian",
+		"respuesta_alterna2": "Mira para delante aweonao Cristian",
+		"respuesta_alterna3": "Mira al frente po aweonao Cristian",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Aweonao%20cristian.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Aweonao%20cristian"
+	},
+	"10": {
+		"id": "10",
+		"pregunta": "¿Qué palabra icónica menciona este personaje?",
+		"respuesta_correcta": "Bastalda",
+		"respuesta_alterna1": "Bastarda",
+		"respuesta_alterna2": "Barata",
+		"respuesta_alterna3": "Barrera",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Bastalda.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Bastalda"
+	},
+	"11": {
+		"id": "11",
 		"pregunta": "¿De qué es estudiante este señor?",
 		"respuesta_correcta": "Enología",
 		"respuesta_alterna1": "Pediatría",
@@ -42,8 +112,18 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Buenas%20noches%2C%20soy%20estudiante%20de%20enolog%C3%ADa.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Buenas%20noches%2C%20soy%20estudiante%20de%20enolog%C3%ADa"
 	},
-	"5": {
-		"id": "5",
+	"12": {
+		"id": "12",
+		"pregunta": "¿Qué le grita esta mujer a la otra señora?",
+		"respuesta_correcta": "Cállate vo vieja culia",
+		"respuesta_alterna1": "Cállate tu vieja maraca",
+		"respuesta_alterna2": "Cállate vo vieja weona",
+		"respuesta_alterna3": "Cállate vo tonta culia",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Callate%20vo%20vieja%20culia.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Callate%20vo%20vieja%20culia"
+	},
+	"13": {
+		"id": "13",
 		"pregunta": "¿Qué comida le indica el mesero al cliente?",
 		"respuesta_correcta": "Carne mechada con puré",
 		"respuesta_alterna1": "Pollo asado con lentejas",
@@ -52,8 +132,8 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Carne%20mechada%20con%20pur%C3%A9.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Carne%20mechada%20con%20pur%C3%A9"
 	},
-	"6": {
-		"id": "6",
+	"14": {
+		"id": "14",
 		"pregunta": "¿Cuál es el apodo de este joven?",
 		"respuesta_correcta": "Chipamogli",
 		"respuesta_alterna1": "Charzaso",
@@ -62,8 +142,38 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Chipamogli.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Chipamogli"
 	},
-	"7": {
-		"id": "7",
+	"15": {
+		"id": "15",
+		"pregunta": "¿Qué le grita este joven a su madre?",
+		"respuesta_correcta": "Chupame los cocos vieja culiá",
+		"respuesta_alterna1": "Chupame los pies vieja tonta",
+		"respuesta_alterna2": "Llevame desayuno a la pieza",
+		"respuesta_alterna3": "Lávame los zapatos después",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Chupame%20los%20cocos%20vieja%20culia.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Chupame%20los%20cocos%20vieja%20culia"
+	},
+	"16": {
+		"id": "16",
+		"pregunta": "¿Cuál es la frase icónica de este preso?",
+		"respuesta_correcta": "Chupar los pecho",
+		"respuesta_alterna1": "Chuparlo estrecho",
+		"respuesta_alterna2": "Chuparlo chueco",
+		"respuesta_alterna3": "Chupar los dedo",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Chupar%20los%20pesho.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Chupar%20los%20pesho"
+	},
+	"17": {
+		"id": "17",
+		"pregunta": "¿Qué frase canta esta alumna en la sala?",
+		"respuesta_correcta": "Chupame la pichulala",
+		"respuesta_alterna1": "Chantame un peo en las pompas",
+		"respuesta_alterna2": "Las manos en el ano",
+		"respuesta_alterna3": "Todo por ti baby",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Ch%C3%BApame%20la%20pichulala.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Ch%C3%BApame%20la%20pichulala"
+	},
+	"18": {
+		"id": "18",
 		"pregunta": "¿Cuál es la frase que menciona el Flaco?",
 		"respuesta_correcta": "Combos iban, combos venían",
 		"respuesta_alterna1": "Combos recibian, combos devolvían",
@@ -72,8 +182,38 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Combos%20iban%2C%20combos%20ven%C3%ADan.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Combos%20iban%2C%20combos%20ven%C3%ADan"
 	},
-	"8": {
-		"id": "8",
+	"19": {
+		"id": "19",
+		"pregunta": "¿Qué frase le dice Julio Cesar al Pastor Soto",
+		"respuesta_correcta": "Como payaso, como weon, como tonto, como ignorante",
+		"respuesta_alterna1": "Como tontito, como imbécil, como idiota, como malo",
+		"respuesta_alterna2": "Como payaso, como tonto, como weon, como idiota",
+		"respuesta_alterna3": "Como feo, como estúpido, como ignorante, como larry",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Como%20payaso%2C%20como%20weon%2C%20como%20tonto%2C%20como%20ignorante.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Como%20payaso%2C%20como%20weon%2C%20como%20tonto%2C%20como%20ignorante"
+	},
+	"20": {
+		"id": "20",
+		"pregunta": "¿Qué dice este joven al grabarse cantando?",
+		"respuesta_correcta": "Conchetumare teléfono reculiao",
+		"respuesta_alterna1": "Conchetumare teléfono de mierda",
+		"respuesta_alterna2": "Conchetumare teléfono aweonao",
+		"respuesta_alterna3": "Conchetumare teléfono culiao",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Conchetumare%20tel%C3%A9fono%20reculiao.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Conchetumare%20tel%C3%A9fono%20reculiao"
+	},
+	"21": {
+		"id": "21",
+		"pregunta": "¿Qué grita Kirbi cuando cae al vacío?",
+		"respuesta_correcta": "Conchetumareee",
+		"respuesta_alterna1": "Culiaoo",
+		"respuesta_alterna2": "Salgaan",
+		"respuesta_alterna3": "Ayudaa",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Conchetumareee.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Conchetumareee"
+	},
+	"22": {
+		"id": "22",
 		"pregunta": "¿Qué dice esta mujer al periodista?",
 		"respuesta_correcta": "Cuando ando con hambre, me como una olla",
 		"respuesta_alterna1": "Cuando ando con el bajón, me sampo un tocomple",
@@ -82,8 +222,28 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Cuando%20ando%20con%20hambre%2C%20me%20como%20una%20olla.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Cuando%20ando%20con%20hambre%2C%20me%20como%20una%20olla"
 	},
-	"9": {
-		"id": "9",
+	"23": {
+		"id": "23",
+		"pregunta": "¿Qué frase dice Bonvallet?",
+		"respuesta_correcta": "Da lo mismo weon",
+		"respuesta_alterna1": "Que me importa weon",
+		"respuesta_alterna2": "Da igual tonto weon",
+		"respuesta_alterna3": "Da lo mismo aweonao",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Da%20lo%20mismo%20weon.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Da%20lo%20mismo%20weon"
+	},
+	"24": {
+		"id": "24",
+		"pregunta": "¿Qué preguntan estos jóvenes?",
+		"respuesta_correcta": "¿Dijiste tula?",
+		"respuesta_alterna1": "¿Dijiste mangueco?",
+		"respuesta_alterna2": "¿Dijiste frucola?",
+		"respuesta_alterna3": "¿Dijiste fruta?",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Dijiste%20tula.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Dijiste%20tula"
+	},
+	"25": {
+		"id": "25",
 		"pregunta": "¿Qué le está diciendo esta señora a su pareja?",
 		"respuesta_correcta": "Dímelo bonito",
 		"respuesta_alterna1": "Respondeme bonito",
@@ -92,8 +252,8 @@
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Dimelo%20bonito.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Dimelo%20bonito"
 	},
-	"10": {
-		"id": "10",
+	"26": {
+		"id": "26",
 		"pregunta": "¿Quién es este personaje?",
 		"respuesta_correcta": "El shonobi Chileno",
 		"respuesta_alterna1": "El naruto Peruano",
@@ -101,5 +261,925 @@
 		"respuesta_alterna3": "El hombre de negro Chileno",
 		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/El%20shinobi%20chileno.jpg",
 		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/El%20shinobi%20chileno"
+	},
+	"27": {
+		"id": "27",
+		"pregunta": "¿Dónde se encuentra internado el hijo de esta señora?",
+		"respuesta_correcta": "En el sotero",
+		"respuesta_alterna1": "En la clínica alemana",
+		"respuesta_alterna2": "En la posta central",
+		"respuesta_alterna3": "En la clínica militar",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/En%20el%20sotero.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/En%20el%20sotero"
+	},
+	"28": {
+		"id": "28",
+		"pregunta": "¿Qué le solicita al periodista este señor?",
+		"respuesta_correcta": "Entrega toa la plata cochino culiao, ah ah ah",
+		"respuesta_alterna1": "Entrega todo el dinero cochino culiao, ah ah ah",
+		"respuesta_alterna2": "Entrega toa las moneas, tonto culiao, ah ah ah ",
+		"respuesta_alterna3": "Entregame todo el dinero rápido, ah ah ah",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Entrega%20toa%20la%20plata%20cochino%20culiao.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Entrega%20toa%20la%20plata%20cochino%20culiao"
+	},
+	"29": {
+		"id": "29",
+		"pregunta": "¿Cuál es la petición que solicita este señor?",
+		"respuesta_correcta": "Envíame una foto rica así, en pelota",
+		"respuesta_alterna1": "Envíame una foto así rica, en pelotita",
+		"respuesta_alterna2": "Envíame una foto de esa manera, sin ropa",
+		"respuesta_alterna3": "Envíame una foto sin ropa, así rica",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Env%C3%ADame%20una%20foto%20rica%20as%C3%AD%2C%20en%20pelota.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Env%C3%ADame%20una%20foto%20rica%20as%C3%AD%2C%20en%20pelota"
+	},
+	"30": {
+		"id": "30",
+		"pregunta": "¿Qué tipo de día es para el conejito?",
+		"respuesta_correcta": "Es el día del plátano",
+		"respuesta_alterna1": "Es el día de la banana",
+		"respuesta_alterna2": "El el día de la alegría",
+		"respuesta_alterna3": "Es el día de la comida",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Es%20el%20d%C3%ADa%20del%20pl%C3%A1tano.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Es%20el%20d%C3%ADa%20del%20pl%C3%A1tano"
+	},
+	"31": {
+		"id": "31",
+		"pregunta": "¿Cuál es la frase que menciona este chico?",
+		"respuesta_correcta": "Esa wea es pa puro provocarme",
+		"respuesta_alterna1": "Esa niña lo hace solo para provocarme",
+		"respuesta_alterna2": "Esa wea la hace pa puro provocarme a mi",
+		"respuesta_alterna3": "Esa mujer lo hace pa puro llamar la atención",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Esa%20wea%20es%20pa%20puro%20provocarme.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Esa%20wea%20es%20pa%20puro%20provocarme"
+	},
+	"32": {
+		"id": "32",
+		"pregunta": "¿De cuál dictadura habla Pinochet?",
+		"respuesta_correcta": "Esta es dicta blanda",
+		"respuesta_alterna1": "Esta es dicta dura",
+		"respuesta_alterna2": "Esta es dicta punta",
+		"respuesta_alterna3": "Esta es dicta madura",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Esta%20es%20dicta%20blanda.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Esta%20es%20dicta%20blanda"
+	},
+	"33": {
+		"id": "33",
+		"pregunta": "¿Cuál es la pregunta que dice el niño vendedor de palos?",
+		"respuesta_correcta": "¿Esto le parece que es pedazo de palo?",
+		"respuesta_alterna1": "¿Esto le parece que es un palo viejo?",
+		"respuesta_alterna2": "¿Esto cree usted que es un pedazo de palo?",
+		"respuesta_alterna3": "¿Esto usted cree que es un pedazo de palo?",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Esto%20le%20parece%20que%20es%20pedazo%20de%20palo.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Esto%20le%20parece%20que%20es%20pedazo%20de%20palo"
+	},
+	"34": {
+		"id": "34",
+		"pregunta": "¿Qué opina este sonriente señor sobre el pisco?",
+		"respuesta_correcta": "Exquisito",
+		"respuesta_alterna1": "Riquísimo",
+		"respuesta_alterna2": "Maravilloso",
+		"respuesta_alterna3": "Increíble",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Exquisito.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Exquisito"
+	},
+	"35": {
+		"id": "35",
+		"pregunta": "¿Qué le recomiendan tomar al señor de la computadora?",
+		"respuesta_correcta": "Guatón, tómate un armonyl",
+		"respuesta_alterna1": "Guatón, tómate un paracetamol",
+		"respuesta_alterna2": "Guatón, déjate de tomar",
+		"respuesta_alterna3": "Guatón, cómete un pernil",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Guat%C3%B3n%2C%20t%C3%B3mate%20un%20armonyl.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Guat%C3%B3n%2C%20t%C3%B3mate%20un%20armonyl"
+	},
+	"36": {
+		"id": "36",
+		"pregunta": "¿Cuál evento a estado esperando este joven para ir vestido de Mario?",
+		"respuesta_correcta": "El Festigame",
+		"respuesta_alterna1": "La Comicoon",
+		"respuesta_alterna2": "El vento cosplayer 2015",
+		"respuesta_alterna3": "Junta Otaku 2007",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/He%20estado%20esperando%20el%20festigame.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/He%20estado%20esperando%20el%20festigame"
+	},
+	"37": {
+		"id": "37",
+		"pregunta": "¿Qué menciona este joven sobre si mismo?",
+		"respuesta_correcta": "Hermano, yo soy una persona tranquila",
+		"respuesta_alterna1": "Amigo, yo soy una persona tranquila",
+		"respuesta_alterna2": "Mira, hermano yo soy una persona tranquila",
+		"respuesta_alterna3": "Compa, yo soy una persona tranquila",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Hermano%2C%20yo%20soy%20una%20persona%20tranquila.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Hermano%2C%20yo%20soy%20una%20persona%20tranquila"
+	},
+	"38": {
+		"id": "38",
+		"pregunta": "¿Por qué este hombre llama por teléfono a alguien?",
+		"respuesta_correcta": "Porque le dicen degenerado",
+		"respuesta_alterna1": "Porque no tiene amigos",
+		"respuesta_alterna2": "Porque no es degenerado",
+		"respuesta_alterna3": "Porque busca respuestas sobre su vida",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Hola%2C%20hablas%20con%20karol.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Hola%2C%20hablas%20con%20karol"
+	},
+	"39": {
+		"id": "39",
+		"pregunta": "¿Quién es este personaje?",
+		"respuesta_correcta": "Homelo Chino",
+		"respuesta_alterna1": "Homero Tompson",
+		"respuesta_alterna2": "Homelo Chileno",
+		"respuesta_alterna3": "Homero Quilpue",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Hola%2C%20soy%20homelo%20chino.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Hola%2C%20soy%20homelo%20chino"
+	},
+	"40": {
+		"id": "40",
+		"pregunta": "¿Qué le grita esta señora al dueño de los choclos?",
+		"respuesta_correcta": "Huaso conchetumadre",
+		"respuesta_alterna1": "Huaso reculiao",
+		"respuesta_alterna2": "Huaso culiao",
+		"respuesta_alterna3": "Huaso aweonao",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Huaso%20conchetumadre.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Huaso%20conchetumadre"
+	},
+	"41": {
+		"id": "41",
+		"pregunta": "¿Cuál frase menciona en su rutina Bombo Fica?",
+		"respuesta_correcta": "Aah incitando al robo",
+		"respuesta_alterna1": "Aah tu mama es weona",
+		"respuesta_alterna2": "Aah se hace el weon",
+		"respuesta_alterna3": "Aah apaga la luz",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Incitando%20al%20robo.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Incitando%20al%20robo"
+	},
+	"42": {
+		"id": "42",
+		"pregunta": "¿Cuál es la icónica frase que dice esta mujer?",
+		"respuesta_correcta": "Instinto de madre leona",
+		"respuesta_alterna1": "Instinto de madre luchona",
+		"respuesta_alterna2": "Insistencia de madre guerrera",
+		"respuesta_alterna3": "Insinto de luchadora",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Instinto%20de%20madre%20leona.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Instinto%20de%20madre%20leona"
+	},
+	"43": {
+		"id": "43",
+		"pregunta": "¿Qué le dice a Juan este señor?",
+		"respuesta_correcta": "Tan helao que estay",
+		"respuesta_alterna1": "Tan caliente que estás",
+		"respuesta_alterna2": "Tan frío que estás Juan",
+		"respuesta_alterna3": "Tan feo que estás weon",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Juan%20tan%20helao%20que%20estay.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Juan%20tan%20helao%20que%20estay"
+	},
+	"44": {
+		"id": "44",
+		"pregunta": "¿Qué trata de decir esta persona?",
+		"respuesta_correcta": "La cifra exacta",
+		"respuesta_alterna1": "La cantidad de dinero gastado",
+		"respuesta_alterna2": "La cifra sin falta",
+		"respuesta_alterna3": "La cantidad de dinero faltante",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/La%20cifra%20exacta.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/La%20cifra%20exacta"
+	},
+	"45": {
+		"id": "45",
+		"pregunta": "¿Cuál frase menciona este personaje?",
+		"respuesta_correcta": "La mea chaliwawa",
+		"respuesta_alterna1": "La mea chalaila",
+		"respuesta_alterna2": "La mea cueaa",
+		"respuesta_alterna3": "La mea volaitiña",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/La%20mea%20chaliwawa.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/La%20mea%20chaliwawa"
+	},
+	"46": {
+		"id": "46",
+		"pregunta": "¿Cuál es la tarjeta que menciona Bombo Fica?",
+		"respuesta_correcta": "La tarjeta Master Plop",
+		"respuesta_alterna1": "La tarjeta Master Card",
+		"respuesta_alterna2": "La tarjeta RedCompra",
+		"respuesta_alterna3": "La tarjeta RedCompra Plop",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/La%20tarjeta%20MasterPlop.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/La%20tarjeta%20MasterPlop"
+	},
+	"47": {
+		"id": "47",
+		"pregunta": "¿Cuáles son las personas que menciona esta señora?",
+		"respuesta_correcta": "Las calilas, la mojojojo, la maiga",
+		"respuesta_alterna1": "La mojojojo, la maiga, las calilas",
+		"respuesta_alterna2": "La maiga, la calila, la mojojojo",
+		"respuesta_alterna3": "La careputa, la calila, la zorrona",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Las%20calilas%2C%20la%20mojojo%2C%20la%20maiga.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Las%20calilas%2C%20la%20mojojo%2C%20la%20maiga"
+	},
+	"48": {
+		"id": "48",
+		"pregunta": "¿Cuál canción crearon estos niños?",
+		"respuesta_correcta": "Llega el verano y las manos en el ano",
+		"respuesta_alterna1": "Llega el invierno y las manos entumidas",
+		"respuesta_alterna2": "Llega la primavera y las manos en mi ano",
+		"respuesta_alterna3": "Llega el otoño y las manos en tu ano",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Llega%20el%20veran%20y%20las%20manos%20en%20el%20ano.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Llega%20el%20veran%20y%20las%20manos%20en%20el%20ano"
+	},
+	"49": {
+		"id": "49",
+		"pregunta": "¿Qué le hacen falta a este niño?",
+		"respuesta_correcta": "Le faltan zafradas",
+		"respuesta_alterna1": "Le faltan frazadas",
+		"respuesta_alterna2": "Le falta comida",
+		"respuesta_alterna3": "Le falta ropa",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Los%20faltan%20zafradas.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Los%20faltan%20zafradas"
+	},
+	"50": {
+		"id": "50",
+		"pregunta": "¿Quiénes pueden tomar pisco según este hombre?",
+		"respuesta_correcta": "Los machos, machos, toman esta wea",
+		"respuesta_alterna1": "Los weones machos, toman esta wea",
+		"respuesta_alterna2": "Los weones rudos, tomamos esta wea",
+		"respuesta_alterna3": "Los machos, solamente toman esta wea",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Los%20machos%2C%20machos%2C%20toman%20esta%20wea.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Los%20machos%2C%20machos%2C%20toman%20esta%20wea"
+	},
+	"51": {
+		"id": "51",
+		"pregunta": "¿Cuál es la típica frase que dice Pancho Saavedra?",
+		"respuesta_correcta": "Lugares que hablan",
+		"respuesta_alterna1": "Lugares que faltan",
+		"respuesta_alterna2": "Lugares que sobran",
+		"respuesta_alterna3": "Lugares que aman",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Lugares%20que%20hablan.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Lugares%20que%20hablan"
+	},
+	"52": {
+		"id": "52",
+		"pregunta": "¿Cuál frase grita el joven a su madre?",
+		"respuesta_correcta": "Mamá tráeme desayuno",
+		"respuesta_alterna1": "Mamá sin ketchup los huevos",
+		"respuesta_alterna2": "Mamá tráeme tallarines",
+		"respuesta_alterna3": "Mamá 2 salchicas",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Mam%C3%A1%20tr%C3%A1eme%20desayuno.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Mam%C3%A1%20tr%C3%A1eme%20desayuno"
+	},
+	"53": {
+		"id": "53",
+		"pregunta": "¿Cómo se come los melones este sujeto?",
+		"respuesta_correcta": "Con pepas",
+		"respuesta_alterna1": "Sin pepas",
+		"respuesta_alterna2": "Con cascara",
+		"respuesta_alterna3": "Sin cascara",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Me%20como%20los%20melones%2C%20hasta%20con%20pepa.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Me%20como%20los%20melones%2C%20hasta%20con%20pepa"
+	},
+	"54": {
+		"id": "54",
+		"pregunta": "¿Qué dice el periodista a sus compañeros?",
+		"respuesta_correcta": "Me están weando",
+		"respuesta_alterna1": "Me están jodiendo",
+		"respuesta_alterna2": "Me están leseando",
+		"respuesta_alterna3": "Me están weando weones",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Me%20est%C3%A1n%20weando.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Me%20est%C3%A1n%20weando"
+	},
+	"55": {
+		"id": "55",
+		"pregunta": "¿Qué le menciona la señora al periodista?",
+		"respuesta_correcta": "Me pasé po",
+		"respuesta_alterna1": "Me pasé de largo po",
+		"respuesta_alterna2": "Me pasé una parada po",
+		"respuesta_alterna3": "Me pasé por tu culpa po",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Me%20pase%20po.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Me%20pase%20po"
+	},
+	"56": {
+		"id": "56",
+		"pregunta": "¿Hacia donde se va este señor?",
+		"respuesta_correcta": "Me voy a la capilla",
+		"respuesta_alterna1": "Me voy por una copetito",
+		"respuesta_alterna2": "Me voy por que esta helao",
+		"respuesta_alterna3": "Me voy por que llegó el Juan",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Me%20voy%20a%20la%20capilla.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Me%20voy%20a%20la%20capilla"
+	},
+	"57": {
+		"id": "57",
+		"pregunta": "¿Por qué la señora llora al ver comer a su pareja?",
+		"respuesta_correcta": "Por que le echó más sal",
+		"respuesta_alterna1": "Por que no le gustó la comida",
+		"respuesta_alterna2": "Por que le faltó sal",
+		"respuesta_alterna3": "Por que le echó azucar",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Mi%20amor%20no%20llore%2C%20le%20saco%20la%20sal%2C%20se%20la%20saco.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Mi%20amor%20no%20llore%2C%20le%20saco%20la%20sal%2C%20se%20la%20saco"
+	},
+	"58": {
+		"id": "58",
+		"pregunta": "¿Por cuánto tiempo se reirá esta persona?",
+		"respuesta_correcta": "Por toda la noche",
+		"respuesta_alterna1": "Por toda la tarde",
+		"respuesta_alterna2": "Por el medio día",
+		"respuesta_alterna3": "Por la mañana",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Mi%20rio%20toa%20la%20noche.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Mi%20rio%20toa%20la%20noche"
+	},
+	"59": {
+		"id": "59",
+		"pregunta": "¿Qué piropo menciona este señor?",
+		"respuesta_correcta": "Mijita por que no me lleva preso, pa que se coma un choripán",
+		"respuesta_alterna1": "Mijita por que no me denuncia, pa que se coma un choripán",
+		"respuesta_alterna2": "Mijita por que no me lleva desayuno, pa que se coma un choripán",
+		"respuesta_alterna3": "Mijita por que no me llama, pa que se coma un choripán",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Mijita%20por%20que%20no%20me%20lleva%20preso%2C%20pa%20que%20se%20coma%20un%20chorip%C3%A1n.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Mijita%20por%20que%20no%20me%20lleva%20preso%2C%20pa%20que%20se%20coma%20un%20chorip%C3%A1n"
+	},
+	"60": {
+		"id": "60",
+		"pregunta": "¿Qué dice esta diputada?",
+		"respuesta_correcta": "Momia conchetumadre",
+		"respuesta_alterna1": "Maldita mujer",
+		"respuesta_alterna2": "Señora malagradecida",
+		"respuesta_alterna3": "Mujer ignorante",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Momia%20conchetumadre.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Momia%20conchetumadre"
+	},
+	"61": {
+		"id": "61",
+		"pregunta": "¿Cuál es la frase icónica de Vidal?",
+		"respuesta_correcta": "No fue culpa mía, yo estoy bien",
+		"respuesta_alterna1": "Si fue culpa mía, no estoy bien",
+		"respuesta_alterna2": "No fue culpa suya, yo estoy bien",
+		"respuesta_alterna3": "Si fue culpa suya, no estoy bien",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20fue%20culpa%20mia%2C%20yo%20estoy%20bien.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20fue%20culpa%20mia%2C%20yo%20estoy%20bien"
+	},
+	"62": {
+		"id": "62",
+		"pregunta": "¿Qué recomienda este niño para una pelea?",
+		"respuesta_correcta": "No se peleen",
+		"respuesta_alterna1": "Peleen con precaución",
+		"respuesta_alterna2": "No se manoseen",
+		"respuesta_alterna3": "No webeen",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20se%20peleen.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20se%20peleen"
+	},
+	"63": {
+		"id": "63",
+		"pregunta": "¿Qué menciona esta señora al periodista?",
+		"respuesta_correcta": "No soy material de los weones yo",
+		"respuesta_alterna1": "Si soy material de los idiota yo",
+		"respuesta_alterna2": "No soy ignorante de los weones yo",
+		"respuesta_alterna3": "No soy material de los mugrientos yo",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20soy%20material%20de%20los%20weones%20yo.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20soy%20material%20de%20los%20weones%20yo"
+	},
+	"64": {
+		"id": "64",
+		"pregunta": "¿Cuál es la frase que le dice este joven a su compañera?",
+		"respuesta_correcta": "No y tu mamá, es una borracha culia",
+		"respuesta_alterna1": "No y tu mamá, es una maraca culia",
+		"respuesta_alterna2": "No y tu mamá, es una tonta weona",
+		"respuesta_alterna3": "No y tu mamá, es una idiota culia",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20y%20tu%20mam%C3%A1%2C%20es%20una%20borracha%20culia.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20y%20tu%20mam%C3%A1%2C%20es%20una%20borracha%20culia"
+	},
+	"65": {
+		"id": "65",
+		"pregunta": "¿Qué debería dejar este joven?",
+		"respuesta_correcta": "Las drogas",
+		"respuesta_alterna1": "Las elecciones",
+		"respuesta_alterna2": "Las ganas de vivir",
+		"respuesta_alterna3": "Los lentes de aumento",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20yo%20creo%20que%2C%20tengo%20que%20dejar%20las%20drogas.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%20yo%20creo%20que%2C%20tengo%20que%20dejar%20las%20drogas"
+	},
+	"66": {
+		"id": "66",
+		"pregunta": "¿Cómo se llama el hijo de esta señora?",
+		"respuesta_correcta": "No, no se llama",
+		"respuesta_alterna1": "No, no tiene",
+		"respuesta_alterna2": "El Chipamogli",
+		"respuesta_alterna3": "El cisarro",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%2C%20no%20se%20llama.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/No%2C%20no%20se%20llama"
+	},
+	"67": {
+		"id": "67",
+		"pregunta": "¿Qué es lo que nunca había visto Bodoque?",
+		"respuesta_correcta": "Tanta caca junta",
+		"respuesta_alterna1": "Tanto rio de caca",
+		"respuesta_alterna2": "Tanta mierda junta",
+		"respuesta_alterna3": "Tanta basura de las personas",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Nunca%20hab%C3%ADa%20visto%20tanta%20caca%20junta.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Nunca%20hab%C3%ADa%20visto%20tanta%20caca%20junta"
+	},
+	"68": {
+		"id": "68",
+		"pregunta": "¿Qué frase menciona este joven?",
+		"respuesta_correcta": "Oh chutcha, como agarré tanto vuelo",
+		"respuesta_alterna1": "Oh chutcha, como agarré tanta velocidad",
+		"respuesta_alterna2": "Oh chutcha, como tomé tanto vuelo",
+		"respuesta_alterna3": "Oh chutcha, como iba tan rápido",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Oh%20chutcha%2C%20como%20agarr%C3%A9%20tanto%20vuelo.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Oh%20chutcha%2C%20como%20agarr%C3%A9%20tanto%20vuelo"
+	},
+	"69": {
+		"id": "69",
+		"pregunta": "¿Qué frase dice el amigo de este niño en el futuro?",
+		"respuesta_correcta": "Ooh se sacó la chucha",
+		"respuesta_alterna1": "Ooh se sacó la mierda",
+		"respuesta_alterna2": "Ooh el tarro se sacó la cresta",
+		"respuesta_alterna3": "Ooh se sacó la rechucha",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Ooh%20se%20sac%C3%B3%20la%20chucha.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Ooh%20se%20sac%C3%B3%20la%20chucha"
+	},
+	"70": {
+		"id": "70",
+		"pregunta": "¿Qué solicita este niño?",
+		"respuesta_correcta": "Dejar de poner esas canciones terriblemente cebolleras",
+		"respuesta_alterna1": "Dejar de colocar canciones de rock",
+		"respuesta_alterna2": "Dejar de colocar canciones terriblemente clásicas",
+		"respuesta_alterna3": "Dejar de colocar canciones comunistas",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Oye%20por%20favor%2C%20dejen%20de%20poner%20esas%20canciones%20terriblemente%20cebolleras.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Oye%20por%20favor%2C%20dejen%20de%20poner%20esas%20canciones%20terriblemente%20cebolleras"
+	},
+	"71": {
+		"id": "71",
+		"pregunta": "¿Cuál era la frase icónica que decía Gonzalo Cáceres en su comercial?",
+		"respuesta_correcta": "Palabra, de hombre",
+		"respuesta_alterna1": "Palabra, de machos",
+		"respuesta_alterna2": "Palabra, completa",
+		"respuesta_alterna3": "Palabra, real",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Palabra%20de%20hombre.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Palabra%20de%20hombre"
+	},
+	"72": {
+		"id": "72",
+		"pregunta": "¿Qué es lo que solicita gritando el hombre?",
+		"respuesta_correcta": "Para la wea po logi culiao",
+		"respuesta_alterna1": "Paren la máquina que me voy a caer",
+		"respuesta_alterna2": "Paren la cagá de máquina por favor",
+		"respuesta_alterna3": "Para la wea po weon",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Para%20la%20wea%20po%20logi%20culiao.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Para%20la%20wea%20po%20logi%20culiao"
+	},
+	"73": {
+		"id": "73",
+		"pregunta": "¿Cuál es la frase que menciona la Rosa Espinosa?",
+		"respuesta_correcta": "Para la wea po perro culiao",
+		"respuesta_alterna1": "Para la wea po weon",
+		"respuesta_alterna2": "Para de molestarme tonto culiao",
+		"respuesta_alterna3": "Corta el webeo culiao weon",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Para%20la%20wea%20po%20perro%20culiao.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Para%20la%20wea%20po%20perro%20culiao"
+	},
+	"74": {
+		"id": "74",
+		"pregunta": "¿Qué frase menciona en este programa Kramer imitando a Sebastián Piñera?",
+		"respuesta_correcta": "Pasa la plata",
+		"respuesta_alterna1": "Pasa palabra",
+		"respuesta_alterna2": "Pasa la siguiente pregunta",
+		"respuesta_alterna3": "Pasa el dinero",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Pasa%20la%20plata.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Pasa%20la%20plata"
+	},
+	"75": {
+		"id": "75",
+		"pregunta": "¿Qué le dice Pinochet al periodista?",
+		"respuesta_correcta": "Pero que economía más grande",
+		"respuesta_alterna1": "Pero que dineral más burdo",
+		"respuesta_alterna2": "Pero que cantidad de dinero",
+		"respuesta_alterna3": "Pero que economía más genial",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Pero%20que%20econom%C3%ADa%20m%C3%A1s%20grande.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Pero%20que%20econom%C3%ADa%20m%C3%A1s%20grande"
+	},
+	"76": {
+		"id": "76",
+		"pregunta": "¿Cuál frase menciona Piñera en esta escena?",
+		"respuesta_correcta": "Por dios que recuerdos",
+		"respuesta_alterna1": "Por dios que memorias",
+		"respuesta_alterna2": "Por dios que economía más grande",
+		"respuesta_alterna3": "Por dios que ganas de volver",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Por%20dios%20que%20recuerdos.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Por%20dios%20que%20recuerdos"
+	},
+	"77": {
+		"id": "77",
+		"pregunta": "¿Qué frase menciona este señor al ser entrevistado?",
+		"respuesta_correcta": "Por que no me chupai el pico, así tal cual",
+		"respuesta_alterna1": "Por que no me chupai el pico, te pago 500, 600, 700 lucas",
+		"respuesta_alterna2": "Por que no me lames el ombligo, así tal cual",
+		"respuesta_alterna3": "Por que no me dices cuanto me amas, así tal cuál",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Por%20que%20no%20me%20chupai%20el%20pico%2C%20as%C3%AD%20tal%20cual.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Por%20que%20no%20me%20chupai%20el%20pico%2C%20as%C3%AD%20tal%20cual"
+	},
+	"78": {
+		"id": "78",
+		"pregunta": "¿Cuál frase menciona Yolanda Sultana en este vídeo?",
+		"respuesta_correcta": "Que nos vaiga bien",
+		"respuesta_alterna1": "Que nos vaya bien",
+		"respuesta_alterna2": "Que nos vaya excelente",
+		"respuesta_alterna3": "Que nos vaiga muy bien",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20nos%20vaiga%20bien.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20nos%20vaiga%20bien"
+	},
+	"79": {
+		"id": "79",
+		"pregunta": "¿Qué frase icónica menciona Felipe Avello?",
+		"respuesta_correcta": "Que paaaso",
+		"respuesta_alterna1": "Tan matando un aweonao",
+		"respuesta_alterna2": "Que pasaaa",
+		"respuesta_alterna3": "Que te pasooo",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20paaso.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20paaso"
+	},
+	"80": {
+		"id": "80",
+		"pregunta": "¿Qué menciona este joven al estar siendo grabado?",
+		"respuesta_correcta": "Que pasa el cazanoticias",
+		"respuesta_alterna1": "Que pasa con los sapos",
+		"respuesta_alterna2": "Que sucede con los noticias",
+		"respuesta_alterna3": "Que pasa con los del mega",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20pasa%20el%20cazanoticias.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20pasa%20el%20cazanoticias"
+	},
+	"81": {
+		"id": "81",
+		"pregunta": "¿Qué frase menciona la persona que graba al chico de la bicicleta?",
+		"respuesta_correcta": "Que pasa larva",
+		"respuesta_alterna1": "Que sucede hermano",
+		"respuesta_alterna2": "Que wea pasa",
+		"respuesta_alterna3": "Que pasa lavadora",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20pasa%20larva.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20pasa%20larva"
+	},
+	"82": {
+		"id": "82",
+		"pregunta": "¿Cuál es la frase que se manda este personaje?",
+		"respuesta_correcta": "Que pasa si el virus muta y se pone buena persona",
+		"respuesta_alterna1": "Que pasa si el virus es buena persona y se va",
+		"respuesta_alterna2": "Que pasa si el virus muta y se vuelve reguetonero",
+		"respuesta_alterna3": "Que sucede si el virus muta y se vuelve argentino",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20pasa%20si%20el%20virus%20muta%20y%20se%20pone%20buena%20persona.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20pasa%20si%20el%20virus%20muta%20y%20se%20pone%20buena%20persona"
+	},
+	"83": {
+		"id": "83",
+		"pregunta": "¿Cuál es la frase que dice Alexis Sanchez en esta entrevista?",
+		"respuesta_correcta": "¿Que te pasa culiao?",
+		"respuesta_alterna1": "¿Que wea te pasa culiao?",
+		"respuesta_alterna2": "¿Que onda culiao?",
+		"respuesta_alterna3": "¿Que te pasa tonto weon?",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20te%20pasa%20culiao.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Que%20te%20pasa%20culiao"
+	},
+	"84": {
+		"id": "84",
+		"pregunta": "¿Qué frase grita esta aficionada al fútbol?",
+		"respuesta_correcta": "Sacheiiiii",
+		"respuesta_alterna1": "Chi chi chi le le le viva Chile",
+		"respuesta_alterna2": "Vamos Chileee",
+		"respuesta_alterna3": "Solo los Chiiiilenos",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Sacheii.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Sacheii"
+	},
+	"85": {
+		"id": "85",
+		"pregunta": "¿Cuál es la amenaza que menciona este personaje?",
+		"respuesta_correcta": "Sangre por sangre guatón Bayron",
+		"respuesta_alterna1": "Sangre por diente guatón Bayron",
+		"respuesta_alterna2": "Sangre por sangre flaco Bayron",
+		"respuesta_alterna3": "Codo por codo guatón Bayron",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Sangre%20por%20sangre%20guat%C3%B3n%20bayron.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Sangre%20por%20sangre%20guat%C3%B3n%20bayron"
+	},
+	"86": {
+		"id": "86",
+		"pregunta": "¿Cuál es la pregunta que realiza este personaje?",
+		"respuesta_correcta": "¿Se escucha allá atrás?",
+		"respuesta_alterna1": "¿Escuchan allá atrás?",
+		"respuesta_alterna2": "¿Alguien escucha allá atrás?",
+		"respuesta_alterna3": "¿Quién escucha allá atrás?",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Se%20escucha%20all%C3%A1%20atr%C3%A1s.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Se%20escucha%20all%C3%A1%20atr%C3%A1s"
+	},
+	"87": {
+		"id": "87",
+		"pregunta": "¿Qué frase menciona esta señora?",
+		"respuesta_correcta": "Se hace la vistima",
+		"respuesta_alterna1": "Se hace la victima",
+		"respuesta_alterna2": "Se hace la inocente",
+		"respuesta_alterna3": "Se hace la que no hace nada",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Se%20hace%20la%20vistima.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Se%20hace%20la%20vistima"
+	},
+	"88": {
+		"id": "88",
+		"pregunta": "¿Qué pregunta le realiza Julio Cesar al Pastor Soto?",
+		"respuesta_correcta": "¿Seré weon?",
+		"respuesta_alterna1": "¿Seré aweonao?",
+		"respuesta_alterna2": "¿Seré tonto?",
+		"respuesta_alterna3": "¿Seré imbécil?",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Ser%C3%A9%20weon.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Ser%C3%A9%20weon"
+	},
+	"89": {
+		"id": "89",
+		"pregunta": "¿Qué le pide el joven de este vídeo a su madre?",
+		"respuesta_correcta": "Sin Ketchuup",
+		"respuesta_alterna1": "Sin Mayonesaa",
+		"respuesta_alterna2": "Sin Mostazaa",
+		"respuesta_alterna3": "Sin Barbacoaa",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Sin%20ketchuup.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Sin%20ketchuup"
+	},
+	"90": {
+		"id": "90",
+		"pregunta": "¿Cuál frase grita este hombre al periodista?",
+		"respuesta_correcta": "Somos el mejor país de Chile hermano",
+		"respuesta_alterna1": "Somos el mejor país de Santiago hermano",
+		"respuesta_alterna2": "Somos el mejor país de latinoamerica hermano",
+		"respuesta_alterna3": "Somos el mejor país de Talca hermano",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Somos%20el%20mejor%20pa%C3%ADs%20de%20chile%20hermano.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Somos%20el%20mejor%20pa%C3%ADs%20de%20chile%20hermano"
+	},
+	"91": {
+		"id": "91",
+		"pregunta": "¿Qué frase menciona este personaje?",
+		"respuesta_correcta": "Somos el primer país de Chile",
+		"respuesta_alterna1": "Somos el primer país de Latinoamerica",
+		"respuesta_alterna2": "Somos el primer país del mundo",
+		"respuesta_alterna3": "Somos el primer país de Santiago",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Somos%20el%20primer%20pa%C3%ADs%20de%20Chile.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Somos%20el%20primer%20pa%C3%ADs%20de%20Chile"
+	},
+	"92": {
+		"id": "92",
+		"pregunta": "¿Qué le grita el joven que vive en estas casas a su madre?",
+		"respuesta_correcta": "Soy drogadicto mamá",
+		"respuesta_alterna1": "Soy enólogo mamá",
+		"respuesta_alterna2": "Soy ingeniero mamá",
+		"respuesta_alterna3": "Soy pastero mamá",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Soy%20drogadicto%20mam%C3%A1.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Soy%20drogadicto%20mam%C3%A1"
+	},
+	"93": {
+		"id": "93",
+		"pregunta": "¿Qué frase menciona la Naya Fácil?",
+		"respuesta_correcta": "Soy sagitario, mitad yegua, mitad mujer",
+		"respuesta_alterna1": "Soy escorpio, mitad mujer, mitad loba",
+		"respuesta_alterna2": "Soy sagitario, mitad loba, mitad mujer",
+		"respuesta_alterna3": "Soy sagitario, mitad mujer, mitad yegua",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Soy%20sagitario%2C%20mitad%20yegua%2C%20mitad%20mujer.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Soy%20sagitario%2C%20mitad%20yegua%2C%20mitad%20mujer"
+	},
+	"94": {
+		"id": "94",
+		"pregunta": "¿Qué frase menciona Corxea en esta foto?",
+		"respuesta_correcta": "Suspensión permanenteee",
+		"respuesta_alterna1": "Suspensión momentáneaaa",
+		"respuesta_alterna2": "Suspensión para siempreee",
+		"respuesta_alterna3": "Suspensión temporaaal",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Suspensi%C3%B3n%20permanenteee.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Suspensi%C3%B3n%20permanenteee"
+	},
+	"95": {
+		"id": "95",
+		"pregunta": "¿Qué frase menciona este hombre?",
+		"respuesta_correcta": "Ta la cagá",
+		"respuesta_alterna1": "Tamos tiki taka",
+		"respuesta_alterna2": "Sólo para machos",
+		"respuesta_alterna3": "Ta la zorra",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Ta%20la%20cag%C3%A1.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Ta%20la%20cag%C3%A1"
+	},
+	"96": {
+		"id": "96",
+		"pregunta": "¿Qué frase mítica decía el Taldo?",
+		"respuesta_correcta": "Pico conchetumare",
+		"respuesta_alterna1": "Pico reculiao",
+		"respuesta_alterna2": "Pico pal que lee",
+		"respuesta_alterna3": "Pico y la conchetumare",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Taldo%20pico%20conchetumare.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Taldo%20pico%20conchetumare"
+	},
+	"97": {
+		"id": "97",
+		"pregunta": "¿Cuál frase menciona Felipe Avello?",
+		"respuesta_correcta": "Tan matando a un weon",
+		"respuesta_alterna1": "Tan matando a un aweonao",
+		"respuesta_alterna2": "Tan golpeando a un weon",
+		"respuesta_alterna3": "Tan asaltando a un weon",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Tan%20matando%20a%20un%20weon.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Tan%20matando%20a%20un%20weon"
+	},
+	"98": {
+		"id": "98",
+		"pregunta": "¿Cuál frase menciona este joven en la entrevista?",
+		"respuesta_correcta": "Te pago 200, 100 lucas, lo que tu querai te pago",
+		"respuesta_alterna1": "Te pago 500, 600 lucas, lo que tu querai te pago",
+		"respuesta_alterna2": "Te pago 100, 200 lucas, lo que tu querai te pago",
+		"respuesta_alterna3": "Te pago 300, 800 lucas, lo que tu querai te pago",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Te%20pago%20200%2C%20100%20lucas%2C%20lo%20que%20tu%20querai%20te%20pago.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Te%20pago%20200%2C%20100%20lucas%2C%20lo%20que%20tu%20querai%20te%20pago"
+	},
+	"99": {
+		"id": "99",
+		"pregunta": "¿Cuál es la frase icónica del Tio Emilio?",
+		"respuesta_correcta": "Te pillamos po compadre",
+		"respuesta_alterna1": "Te pillamos po amigo",
+		"respuesta_alterna2": "Te pillamos po weon",
+		"respuesta_alterna3": "Te pillamos po hermano",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Te%20pillamos%20po%20compadre.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Te%20pillamos%20po%20compadre"
+	},
+	"100": {
+		"id": "100",
+		"pregunta": "¿Cuál es la frase que menciona Eduardo Vargas?",
+		"respuesta_correcta": "Te vay en puras falacia",
+		"respuesta_alterna1": "Te vay en puras mentiras",
+		"respuesta_alterna2": "Te vas en puras weas",
+		"respuesta_alterna3": "Hablai puras falacias",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Te%20vay%20en%20puras%20falacia.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Te%20vay%20en%20puras%20falacia"
+	},
+	"101": {
+		"id": "101",
+		"pregunta": "¿Qué es lo que aspira este hombre?",
+		"respuesta_correcta": "Neoprén",
+		"respuesta_alterna1": "Vitamina C",
+		"respuesta_alterna2": "Pasta de dientes",
+		"respuesta_alterna3": "Pasta",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Toy%20aspirando%20neopr%C3%A9n.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Toy%20aspirando%20neopr%C3%A9n"
+	},
+	"102": {
+		"id": "102",
+		"pregunta": "¿Cuál es la frase que dice Felipe Avello?",
+		"respuesta_correcta": "Toy drogado, toy drogado",
+		"respuesta_alterna1": "Tan matando a un aweonao",
+		"respuesta_alterna2": "Toy lucido, toy lucido",
+		"respuesta_alterna3": "Toy enfermo, toy enfermo",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Toy%20drogado%2C%20toy%20drogado.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Toy%20drogado%2C%20toy%20drogado"
+	},
+	"103": {
+		"id": "103",
+		"pregunta": "¿Cómo se encuentra la mujer del vídeo?",
+		"respuesta_correcta": "Tiki Taka",
+		"respuesta_alterna1": "Tiki Tiki",
+		"respuesta_alterna2": "Taka Taka",
+		"respuesta_alterna3": "Tiki Taka Tuka",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Toy%20tiki%20taka.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Toy%20tiki%20taka"
+	},
+	"104": {
+		"id": "104",
+		"pregunta": "¿A qué actividad nos invita Arturo Vidal?",
+		"respuesta_correcta": "A trabajar",
+		"respuesta_alterna1": "A lavar",
+		"respuesta_alterna2": "A trotar",
+		"respuesta_alterna3": "A caminar",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Trabajen%20flojos%20culiaos.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Trabajen%20flojos%20culiaos"
+	},
+	"105": {
+		"id": "105",
+		"pregunta": "¿Cuál es la frase icónica del negro Piñera?",
+		"respuesta_correcta": "Tranquilito papito",
+		"respuesta_alterna1": "Tranquilen papitein",
+		"respuesta_alterna2": "Tranquilito hermanito",
+		"respuesta_alterna3": "Tranquilito weoncito",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Tranquilito%20papito.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Tranquilito%20papito"
+	},
+	"106": {
+		"id": "106",
+		"pregunta": "¿Qué frase menciona Edmundo Varas?",
+		"respuesta_correcta": "Tranquilo papá",
+		"respuesta_alterna1": "Tranquilito papito",
+		"respuesta_alterna2": "Tranquilein Jhonguey",
+		"respuesta_alterna3": "Tranquilito papá",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Tranquilo%20pap%C3%A1.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Tranquilo%20pap%C3%A1"
+	},
+	"107": {
+		"id": "107",
+		"pregunta": "¿Cuál es logo de esta bebida?",
+		"respuesta_correcta": "Tula, la bebida energética de todos los Chilenos",
+		"respuesta_alterna1": "Tula, la bebida de todos los Chilenos",
+		"respuesta_alterna2": "Tula, la bebida gaseosa de todos los Chilenos",
+		"respuesta_alterna3": "Tula, la energética de todos los Chilenos",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Tula%2C%20la%20bebida%20energ%C3%A9tica%20de%20todos%20los%20Chilenos.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Tula%2C%20la%20bebida%20energ%C3%A9tica%20de%20todos%20los%20Chilenos"
+	},
+	"108": {
+		"id": "108",
+		"pregunta": "¿Qué frase menciona la Botota?",
+		"respuesta_correcta": "Tírame agua weona, ando caliente weona",
+		"respuesta_alterna1": "Tírame agua, ando caliente weona",
+		"respuesta_alterna2": "Tírame agua helada, ando caliente weona",
+		"respuesta_alterna3": "Tírame agua, ando con ganas weona",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/T%C3%ADrame%20agua%20weona%2C%20ando%20caliente%20weona.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/T%C3%ADrame%20agua%20weona%2C%20ando%20caliente%20weona"
+	},
+	"109": {
+		"id": "109",
+		"pregunta": "¿Qué frase mencionan estos 3 personajes?",
+		"respuesta_correcta": "Un asaito, un asaito",
+		"respuesta_alterna1": "Un asaito, un pisquito",
+		"respuesta_alterna2": "Un asaito, un manjar",
+		"respuesta_alterna3": "Un asaito, un momentito",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Un%20asaito%2C%20un%20asaito.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Un%20asaito%2C%20un%20asaito"
+	},
+	"110": {
+		"id": "110",
+		"pregunta": "¿Qué frase dice este personaje?",
+		"respuesta_correcta": "Un berlini",
+		"respuesta_alterna1": "Un mantecado",
+		"respuesta_alterna2": "Un choripán",
+		"respuesta_alterna3": "Un helado",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Un%20berlini.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Un%20berlini"
+	},
+	"111": {
+		"id": "111",
+		"pregunta": "¿Qué frase menciona aquí Bombo Fica?",
+		"respuesta_correcta": "Vo soy weon o le crei a salfate?",
+		"respuesta_alterna1": "Vo soy tonto o le crei a salfate?",
+		"respuesta_alterna2": "Vo soy aweonao o le crei a salfate?",
+		"respuesta_alterna3": "Vo soy tontito o le crees a salfate?",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Vo%20soy%20weon%20o%20le%20crei%20a%20salfate.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Vo%20soy%20weon%20o%20le%20crei%20a%20salfate"
+	},
+	"112": {
+		"id": "112",
+		"pregunta": "¿Qué frase dice este tierno joven?",
+		"respuesta_correcta": "Wena cabros, chupenme el pene",
+		"respuesta_alterna1": "Wena hermano, chupenme el pene",
+		"respuesta_alterna2": "Wena culiao, chupenme el pene",
+		"respuesta_alterna3": "Wena los weones, chupenme el pene",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Wena%20cabros%2C%20chupenme%20el%20pene.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Wena%20cabros%2C%20chupenme%20el%20pene"
+	},
+	"113": {
+		"id": "113",
+		"pregunta": "¿Cuál oración menciona este cantante?",
+		"respuesta_correcta": "Y desde aquí te digo, maraca conchetumare",
+		"respuesta_alterna1": "Y desde aquí te digo, maraca reculiada",
+		"respuesta_alterna2": "Y desde aquí te digo, weona conchetumare",
+		"respuesta_alterna3": "Y desde aquí te digo, weona culiada",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Y%20desde%20aqu%C3%AD%20te%20digo%2C%20maraca%20conchetumare.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Y%20desde%20aqu%C3%AD%20te%20digo%2C%20maraca%20conchetumare"
+	},
+	"114": {
+		"id": "114",
+		"pregunta": "¿Cuál respuesta da este caballero a la pregunta que le realizan?",
+		"respuesta_correcta": "Si, me encanta",
+		"respuesta_alterna1": "No, me disgusta",
+		"respuesta_alterna2": "No, lo odio",
+		"respuesta_alterna3": "Si, lo amo",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Y%20le%20gusta%20el%20pico%2C%20si%20me%20encanta.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Y%20le%20gusta%20el%20pico%2C%20si%20me%20encanta"
+	},
+	"115": {
+		"id": "115",
+		"pregunta": "¿Cuál frase menciona Piñera en esta conferencia?",
+		"respuesta_correcta": "Y por el marepoto",
+		"respuesta_alterna1": "Y por el terremoto",
+		"respuesta_alterna2": "Y por el tsunami",
+		"respuesta_alterna3": "Y por el temblor",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Y%20por%20el%20marepoto.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Y%20por%20el%20marepoto"
+	},
+	"116": {
+		"id": "116",
+		"pregunta": "¿Qué le solicita Piñera al Coronavirus?",
+		"respuesta_correcta": "Que se vaya del país",
+		"respuesta_alterna1": "Que se quede en el país",
+		"respuesta_alterna2": "Que se vaya hoy del país",
+		"respuesta_alterna3": "Que se vaya a fin de mes del país",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Y%20que%20yo%20le%20pido%2C%20que%20se%20vaya%20del%20pa%C3%ADs.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Y%20que%20yo%20le%20pido%2C%20que%20se%20vaya%20del%20pa%C3%ADs"
+	},
+	"117": {
+		"id": "117",
+		"pregunta": "¿Cuál frase dice este joven entrevistado?",
+		"respuesta_correcta": "Yaa la mea volaita",
+		"respuesta_alterna1": "Yia la media cagaita",
+		"respuesta_alterna2": "Yaa la media volá",
+		"respuesta_alterna3": "Yaa la media wea",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Yaa%20la%20mea%20volaita.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Yaa%20la%20mea%20volaita"
+	},
+	"118": {
+		"id": "118",
+		"pregunta": "¿Qué frase dice esta niña?",
+		"respuesta_correcta": "Yo no voy a sufrir por nadie, aunque me muera",
+		"respuesta_alterna1": "Yo voy a sufrir por todos, aunque me muera",
+		"respuesta_alterna2": "Yo no voy a sufrir por nadie, aunque sufra",
+		"respuesta_alterna3": "Yo voy a sufrir por alguien, aunque me duela",
+		"img_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Yo%20no%20voy%20a%20sufrir%20por%20nadie.jpg",
+		"sound_url": "https://github.com/SlaveObeys/Chile-Quiz-Definitivo/raw/main/Sonidos/Yo%20no%20voy%20a%20sufrir%20por%20nadie"
 	}
 }
